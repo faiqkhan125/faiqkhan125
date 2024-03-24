@@ -1,3 +1,5 @@
+![logo](![Screenshot 2024-03-24 081646](https://github.com/faiqkhan125/faiqkhan125/assets/155578969/2dcac9ab-cc3d-45a0-9222-d0df5e29bbac)
+
 <h1 align="center">Hi 👋, I'm Muhammad Faiq khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
