@@ -16,6 +16,10 @@
 🚀 I'm a passionate Web Developer who loves building responsive, accessible, and intelligent web applications using modern tools like **HTML, CSS, JavaScript, React, Python**, and even exploring **AI integrations**.  
 
 
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=faiqkhan125&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ l_coding_platform_l) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/faiqkhan123/) 
 
@@ -31,9 +35,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=faiqkhan125&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=faiqkhan125&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=faiqkhan125&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=faiqkhan125&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🧑‍💻Random Cyber Quote
 ![](https://github-readme-cyber-quotes.vercel.app/api?type=horizontal&theme=gruvbox)
