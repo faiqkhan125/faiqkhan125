@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faiq khan</h1>
 <h3 align="center">A passionate Web & App developer from Pakistan</h3>
 
-Email Me 👉 ✉️ **faiqkhan1882006@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+                                     Email Me 👉 ✉️ **faiqkhan1882006@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 # 💫About Me :
 
